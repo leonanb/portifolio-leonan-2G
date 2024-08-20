@@ -1,0 +1,32 @@
+:root{
+  --cor-fundo: #a3a3a3;
+  --cor-destauque: #ff0000;
+  --cor-texto: #ffffff;
+  --cor-quaternaria: #FF00FF;
+  --cor-quintenaria: #FF0000;
+
+
+  
+}
+
+body{
+  background-color: var(--cor-fundo);
+  color: var( --cor-texto);
+}
+
+strong{
+
+  color: var(--cor-destauque);
+  
+}
+
+a{
+
+  background-color: var(--cor-destauque);
+  color: var(--cor-texto);
+  padding: 15px 45px;
+  margin: 25px 15px;
+  margin-top: 1000px;
+  border-radius: 10px;
+  
+}
